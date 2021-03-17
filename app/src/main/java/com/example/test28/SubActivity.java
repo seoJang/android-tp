@@ -25,7 +25,10 @@ public class SubActivity extends AppCompatActivity {
                 Log.d("로그", "값");
             }
         });
+'
 
+
+    '
     }
 
     
