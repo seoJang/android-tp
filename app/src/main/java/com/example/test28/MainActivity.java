@@ -17,8 +17,14 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = getIntent();
         String str  = intent.getExtras().getString("키");
         //EditText edittext  = findViewById(R.id.edit_text);
+
         ((EditText) findViewById(R.id.edit_text)).setText(str);
         Log.d("로그", str);
+
+            // o- cmmit
+
+                //o-master
+
 
 
     }
