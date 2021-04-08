@@ -1,5 +1,3 @@
-# android-tp
-Kotlin Android Test Project
 
 # android_tp
 Kotlin 기반 android test project
