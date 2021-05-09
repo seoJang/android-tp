@@ -11,6 +11,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.test21"
+
         minSdkVersion 16 //23 //16
         targetSdkVersion 30
         versionCode 1
@@ -33,6 +34,7 @@ android {
         jvmTarget = '1.8'
     }
 }
+
 /*추가*/
 allprojects {
     repositories {
@@ -54,4 +56,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     /*추가*/
     implementation 'com.github.gayanvoice:android-animations-kitlin:1.1'
+
 }
